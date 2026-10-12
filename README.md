@@ -10,6 +10,8 @@ I am fascinated by WordPress, the internet, computers and ways to earn an online
 
 Read my full story on [my website](https://coderevolution.ro/our-story/)!
 
+Check also [WPBay](https://wpbay.com), the WordPress plugin and theme marketplace I founded. 
+
 <!---
 CodeRevolutionPlugins/CodeRevolutionPlugins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
